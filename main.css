@@ -200,3 +200,8 @@ input {
     transition: 0.5s;
     font-size: 35px;
 }
+
+footer {
+    font-size: 30px;
+    color: aqua;
+}
