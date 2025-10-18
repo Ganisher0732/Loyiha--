@@ -186,3 +186,17 @@ input {
     transition: 0.5s;
     font-size: 30px;
 } 
+
+.submit {
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: aqua;
+    color: black;
+}
+
+.submit:hover {
+    box-shadow: 5px 5px 5px red;
+    transition: 0.5s;
+    font-size: 35px;
+}
