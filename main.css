@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: aqua;
+}
+
+.aboularmi {
+    text-decoration: none;
+    color: aqua;
+    font-size: 20px;
+    border: 1px solid black;
+}
+
+.aboularmi:hover {
+    box-shadow: 5px 5px 5px red;
+    font-size: 30px;
+}
