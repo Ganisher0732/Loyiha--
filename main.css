@@ -102,3 +102,22 @@ body {
     transition: 0.5s;
     font-size: 60px;
 }
+
+.gooooo {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.gooooo a {
+    text-decoration: none;
+    font-size: 30px;
+    color: aqua;
+}
+
+.gooooo a:hover {
+    box-shadow: 5px 5px 5px aqua;
+    transition: 0.5s;
+    font-size: 50px;
+}
