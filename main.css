@@ -58,3 +58,50 @@ body {
     margin-left: 50px;
     text-align: center;
 }
+
+.gg-bro {
+    border: 1px solid aliceblue;
+    border-radius: 50px;
+    color: aliceblue;
+    text-align: left;
+}
+
+#htm {
+    border: 1px solid aqua;
+    border-radius: 50px;
+    width: 1750px;
+    background-color: aqua;
+}
+
+#htm:hover {
+    box-shadow: 5px 5px 5px red;
+    font-size: 50px;
+}
+
+#cs {
+    border: 1px solid aqua;
+    border-radius: 50px;
+    width: 1350px;
+    background-color: aqua;
+}
+
+#cs:hover {
+    box-shadow: 5px 5px 5px red;
+    font-size: 50px;
+}
+
+#js {
+    border: 1px solid aqua;
+    border-radius: 50px;
+    width: 1000px;
+    background-color: aqua;
+}
+
+#js:hover {
+    box-shadow: 5px 5px 5px red;
+    font-size: 50px;
+}
+
+.letsgo {
+    font-size: 70px;
+}
